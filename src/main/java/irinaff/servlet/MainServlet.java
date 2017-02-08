@@ -9,6 +9,7 @@ import java.io.PrintWriter;
 
 /**
  * Как создать Servlet http://devcolibri.com/4284
+ * web.xml в этом файле мы зарегистрируем наш сервлет и замапим его на URL
  * Created by IFatkullina on 08.02.2017.
  */
 //HttpServlet предназначен для написания сервлетов по типу общения клиент-сервер, а именно используя HTTP протокол
