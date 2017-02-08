@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * Как создать Servlet
+ * Как создать Servlet http://devcolibri.com/4284
  * Created by IFatkullina on 08.02.2017.
  */
 //HttpServlet предназначен для написания сервлетов по типу общения клиент-сервер, а именно используя HTTP протокол
